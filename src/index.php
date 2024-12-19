@@ -1,6 +1,6 @@
 <?php
 const FailedDestination = 'https://wikipedia.com';
-const BaseDestination = 'gotfegli.com'; // Base domain
+const BaseDestination = 'doc.checkiteasy.com'; // Base domain
 
 // Function to generate a random subdomain
 function getRandomSubdomain($length = 8) {
